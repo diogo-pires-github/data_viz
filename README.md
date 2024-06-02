@@ -13,3 +13,7 @@ Using the Emissions dataset, we chose to show specific types of polluting emissi
 
 ## Dashboard URL:
 https://public.tableau.com/app/profile/diogo.pires7230/viz/FromEmissionstoEmergencies/FromEmissionstoEmergenciesDashboard
+
+## **Contacts**
+- LinkedIn - [Diogo Pires](https://www.linkedin.com/in/diogo-f-m-pires)
+- GitHub: [diogo-pires-github](https://github.com/diogo-pires-github)
